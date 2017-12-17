@@ -1,4 +1,4 @@
-# Reproducible Research: Peer Assessment 1
+# Reproducible Research: Peer  Assessment 1
 
 ```{r, echo=FALSE, results='hide', warning=FALSE, message=FALSE}
 library(ggplot2)
@@ -93,7 +93,6 @@ stepsByDayMedianImputed <- median(stepsByDayImputed)
 ```
 * Mean (Imputed): `r stepsByDayMeanImputed`
 * Median (Imputed):  `r stepsByDayMedianImputed`
-
 
 ----
 
